@@ -7,3 +7,5 @@
 - ⚡ Fun fact: I learned C# This summer, and I'm still learning
 
 I love to learn, especially about programming. If you have a comment or anything that will help me, please feel free to lave a comment!
+
+What I'm working on constantly changes, but I'll try to keep this page recent as to what I'm working on, and some of my code isn't public yet.
