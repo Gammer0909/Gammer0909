@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Gammer0909, and here's some information about me:
 
-- 🔭 I’m currently working on [World War bass](https://github.com/Gammer0909/World-War-Bass) 
-- 🌱 I’m currently learning Object Oriented Design, and learning how to use Google APIs
-- 🤔 I’m looking for help with C# and how to code effectively
+- 🔭 I’m currently working on Many things, including learning [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- 🌱 I’m currently learning Object Oriented Design, and Graphics Programming (especially the math part!
 - 📫 How to reach me: GitHub (here)
-- ⚡ Fun fact: I learned C# This summer, and I'm still learning
+- ⚡ Fun fact: I LOVE math, if you have any tips or anything, let me know!
 
 I love to learn, especially about programming. If you have a comment or anything that will help me, please feel free to contact me!
 
