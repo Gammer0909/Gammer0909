@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gammer0909, and here's some information about me:
 
-- 🔭 I’m currently working on Many things, including learning [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- 🔭 I’m currently working on Many things, including learning Math, C++, C#, minecraft modding, and more
 - 🌱 I’m currently learning Object Oriented Design, and Graphics Programming (especially the math part!
 - 📫 How to reach me: GitHub (here)
 - ⚡ Fun fact: I LOVE math, if you have any tips or anything, let me know!
