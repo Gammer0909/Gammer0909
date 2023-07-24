@@ -8,4 +8,4 @@ I love to learn, especially about programming. If you have a comment or anything
 
 What I'm working on constantly changes, but I'll try to keep this page recent as to what I'm working on, and some of my code isn't public yet.
 
-I'm currently working on a BIG project, and the code may not be public for a while, stay tuned!
+I'm currently working on a BIG project! The project is a WIP, you can look at it [here](https://github.com/Gammer0909/DungeonCrawler
